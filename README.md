@@ -37,5 +37,5 @@ README.md
 - Add animations or themes
 
 ## Credits
-Built by Vignesh Kalakuntla 
+Built by Vignesh Kalakuntla
 Inspired by Flutter’s simplicity and DartPad’s accessibility
